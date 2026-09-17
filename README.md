@@ -1,20 +1,20 @@
-# Class-Assignments-One 📊
+# Class-Assignment-5
 
-**OIM3641 · Babson College · Fall 2026**
+**OIM3641 · Babson College Fall 2026**
 
-Personal classwork repository for OIM3641. This repo holds my weekly assignments, in-class exercises, and project milestones as I build practical Python and data skills with a finance and real estate lens.
+My personal classwork repository for OIM3641. This repo holds my weekly assignments, in-class exercises, and project milestones as we learn to build with python.
 
 ---
 
-## 👋 About Me
+## About Me
 
-Hi, I'm **Alec Ramoski**, a Finance concentration student at **Babson College** (Class of 2027) and a member of the Babson Honors Program and a four-time Dean's List recipient.
+Hi, I'm **Alec Ramoski**, a Finance concentration student at **Babson College** (Class of 2027) and a member of the Babson Honors Program and a six-time Dean's List recipient.
 
 My background is in **commercial and industrial real estate**. I've worked as a Summer Analyst in East Coast Investments at **CenterPoint Properties**, where I built a South Florida industrial development pipeline model and reviewed underwriting on prospective assets, and as an intern in industrial brokerage at **Cushman & Wakefield**.
 
-I've also been building businesses since high school, from **Revive Baits** (recycling discarded soft plastics into new fishing lures) to **KB Drive It Forward** (refurbishing and reselling sports cars). Today I'm the founder of **Lantern**, a software company that builds AI-native platforms for clients.
+I've also been building businesses since high school, from **Revive Baits** (recycling discarded soft plastics into new fishing lures) to **KB Drive It Forward** (refurbishing and reselling sports cars). Today I work for **Lantern**, a software company that builds AI-native platforms for clients. I also founded and started **Beacon** a database management/CRM platform for CRE brokers.
 
-In this course I want to sharpen my ability to turn messy data into clear decisions, especially for finance and real estate problems.
+In this course I want to really learn the fundamentals of coding so I can learn more about my output and have more control when using llms to do the grunt work.
 
 ---
 
@@ -22,15 +22,10 @@ In this course I want to sharpen my ability to turn messy data into clear decisi
 
 ### Languages
 ![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ### Libraries & Frameworks
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-%23000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 
 ### Tools & Platforms
@@ -112,7 +107,7 @@ streamlit run projects/milestone-2/app.py
 
 ---
 
-## 🤝 Contact & Connect
+## Contact & Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alec-ramoski-b1989b2ab/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aramoski1)
@@ -123,6 +118,3 @@ streamlit run projects/milestone-2/app.py
 - **Email:** [aramoski1@babson.edu](mailto:aramoski1@babson.edu)
 - **Portfolio of work:** [github.com/aramoski1](https://github.com/aramoski1?tab=repositories)
 
----
-
-*This repository is for coursework in OIM3641 at Babson College.*
